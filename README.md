@@ -8,7 +8,7 @@ Este projeto foi desenvolvido como parte do Super Projeto de Estatística e Prob
 O sistema integra uma análise exploratória visual (via Power BI) com um motor de classificação preditiva (via modelos de Machine Learning) para fornecer um diagnóstico probabilístico em tempo real sobre a trajetória acadêmica do estudante.
 
 ## 🛠 Tecnologias Utilizadas
-* Linguagem: Python 3.x
+* Linguagem: Python 
 * Framework Web: Streamlit
 * Modelagem Preditiva: Scikit-Learn (Bayesiano, Árvore de Decisão e KNN)
 * Visualização: Power BI (Embed)
