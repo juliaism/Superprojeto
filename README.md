@@ -1,10 +1,9 @@
-# **Dashboard**
- O projeto objetivou realizar uma análise da base de dados de jogos comercializados na plataforma Steam, de modo a criar um dashboard interativo, no qual o usuário poderá explorar informações relevantes no que se refere ao segmento gamer.
+# **Dashboard Evasão Escolar**
 
 
 ### Conjunto de Dados 
 
-• Dataset Utilizado: 
+• Dataset Utilizado: https://www.kaggle.com/datasets/syedfaizanalii/predict-students-dropout-and-academic-success
 
 • Justificativa: 
 
