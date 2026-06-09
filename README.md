@@ -17,17 +17,4 @@
 
  • Numpy
 
-### Conjunto de Dados 
 
-• Dataset Utilizado: 
-
-• Justificativa: 
-
-• Formato: CSV
-
-
-### Bibliotecas Utilizadas
-
- • Pandas
- 
- • Numpy
